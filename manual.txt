@@ -1,0 +1,16 @@
+Guide on how it worked on mac on dataset Osaka
+
+-start with state of fdachs (2.1.22 13:13 - 969634c8)
+-install liblinear - with make command in terminal
+-add cython again (but no code changes in this direction)
+-instead .at use _get_value() and _set_value(), respectively
+-np.float-> float and np.int -> int
+-pulp error: (look for executable file cbc and add file in find_ILP())
+-now everything should go through
+
+--Whats next:
+
+1. start again but from the beginning and annotate really every change (
+but make only the necessary changes -> as few as possible)
+2. try with the other datasets
+3. task description - what else do we have to do?

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="added manual.txt, finally code runs through for Osaka">
+      <change afterPath="$PROJECT_DIR$/.idea/edd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/README.ranksvm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/blas.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/blasp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/daxpy.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/ddot.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/dgemm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/dgemv.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/dger.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/dnrm2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/dscal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/dspmv.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/f2c.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/lsame.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/blas/xerbla.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/bodyfat_scale_qid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/selectiontree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/selectiontree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/svm-predict.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/svm-scale.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/svm-train.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/svm.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/svm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/tron.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libsvm-ranksvm-3.25/tron.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manual.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/comb-Osak.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/comb-Osak.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rand-Osak.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rand-Osak.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rank-Osak.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rank-Osak.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tran-Osak.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/tran-Osak.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lol1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse_results.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parse_results.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank_markov.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rank_markov.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mac_tobi" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23L8BFLktuFdz9bNZX4Z0mACE5H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added manual.txt, finally code runs through for Osaka" />
+    <option name="LAST_COMMIT_MESSAGE" value="added manual.txt, finally code runs through for Osaka" />
+  </component>
+</project>
