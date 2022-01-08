@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="added manual.txt, finally code runs through for Osaka">
-      <change beforePath="$PROJECT_DIR$/.idea/edd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/edd.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="&quot;modified manual.txt&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manual.txt" beforeDir="false" afterPath="$PROJECT_DIR$/manual.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dopp-ex3/src/exploration_cities_tobi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../dopp-ex3/src/exploration_cities_tobi.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,7 +59,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Tobias" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -99,6 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added manual.txt, finally code runs through for Osaka" />
-    <option name="LAST_COMMIT_MESSAGE" value="added manual.txt, finally code runs through for Osaka" />
+    <MESSAGE value="&quot;modal split - end&quot;" />
+    <MESSAGE value="&quot;modified manual.txt&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;modified manual.txt&quot;" />
   </component>
 </project>
