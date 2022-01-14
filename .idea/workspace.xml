@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="&quot;modified manual.txt&quot;">
+    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="changed transport.csv to only 171 relevant cities">
+      <change beforePath="$PROJECT_DIR$/.idea/edd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/edd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dopp-ex3/src/exploration_cities_tobi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../dopp-ex3/src/exploration_cities_tobi.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/comb-Edin.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/comb-Edin.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/comb-Glas.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/comb-Glas.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/comb-Toro.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/comb-Toro.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rand-Edin.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rand-Edin.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rand-Glas.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rand-Glas.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rand-Melb.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rand-Melb.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rand-Toro.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rand-Toro.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rank-Edin.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rank-Edin.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rank-Glas.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rank-Glas.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rank-Melb.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rank-Melb.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rank-Toro.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rank-Toro.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tran-Edin.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/tran-Edin.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tran-Glas.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/tran-Glas.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tran-Toro.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/tran-Toro.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank_markov.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rank_markov.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +30,7 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="593f8cc0bba52e590a75301cfe74d0442a318949" />
+        <entry key="$PROJECT_DIR$/../../dopp-ex3" value="Tobias" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +57,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../dopp-ex3/src/exploration" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -59,7 +81,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="origin/Viktor_neu" />
                       </list>
                     </value>
                   </entry>
@@ -97,6 +119,10 @@
     <MESSAGE value="added manual.txt, finally code runs through for Osaka" />
     <MESSAGE value="&quot;modal split - end&quot;" />
     <MESSAGE value="&quot;modified manual.txt&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;modified manual.txt&quot;" />
+    <MESSAGE value="es rennt" />
+    <MESSAGE value="added section economy in exploration_tobi.ipynb" />
+    <MESSAGE value="better join and dealt with missing values" />
+    <MESSAGE value="changed transport.csv to only 171 relevant cities" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed transport.csv to only 171 relevant cities" />
   </component>
 </project>
