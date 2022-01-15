@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="added manual.txt, finally code runs through for Osaka">
+    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/edd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/edd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tour-cikm16.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manual.txt" beforeDir="false" afterPath="$PROJECT_DIR$/manual.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dopp-ex3/src/exploration_cities_tobi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../dopp-ex3/src/exploration_cities_tobi.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/comb-Osak.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/comb-Osak.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/rand-Osak.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rand-Osak.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tran-Osak.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/tran-Osak.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank_markov.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rank_markov.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +51,9 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
