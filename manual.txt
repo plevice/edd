@@ -22,3 +22,11 @@ but make only the necessary changes -> as few as possible) (2 -vice)
     -5 slides
 4. statistical testing
 
+Notes Tobi
+-Experiment Design EDD:
+
+Data 0-3: mit default einstellungen durch
+
+Data 4=Melb: tried but on ran_tran (NR. 366), runs on full load for 3.5h without improvement
+—> for data 4 we choose to set time_limit of 15min/Traj:
+
