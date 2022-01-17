@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="update economy_relevant.csv">
+    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="created ml_model.ipynb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/comb-Melb.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/comb-Melb.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/rand-Melb.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/rand-Melb.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/tran-Melb.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/tran-Melb.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manual.txt" beforeDir="false" afterPath="$PROJECT_DIR$/manual.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse_results.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parse_results.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rank_markov.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rank_markov.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dopp-ex3/src/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../dopp-ex3/src/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_UPDATE_ALL_ROOTS" value="false" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="593f8cc0bba52e590a75301cfe74d0442a318949" />
-        <entry key="$PROJECT_DIR$/../../dopp-ex3" value="Tobias" />
+        <entry key="$PROJECT_DIR$/../../dopp-ex3" value="47ae41d434d113353bb7496d46701443f60f7df9" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../dopp-ex3" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -38,12 +39,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23L8BFLktuFdz9bNZX4Z0mACE5H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -106,6 +111,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added manual.txt, finally code runs through for Osaka" />
     <MESSAGE value="&quot;modal split - end&quot;" />
     <MESSAGE value="&quot;modified manual.txt&quot;" />
@@ -116,6 +122,10 @@
     <MESSAGE value="updated pkl-dateien (mit Ausnahmen*)&#10;*ausnahmen:&#10;-comb-Melb&#10;-tran-Melb &#10;-&gt; wegen Zeitaufwand (vorerst) mal abgebrochen" />
     <MESSAGE value="economy_relevant.csv, living_relevant.csv added&#10;Goto: exploration_tobi.ipynb -&gt; section &quot;livingcondition Exploration ...&quot; for good documentation how the file was created" />
     <MESSAGE value="update economy_relevant.csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="update economy_relevant.csv" />
+    <MESSAGE value="dont know why this commit is here" />
+    <MESSAGE value="df_merged_div.csv now available in ouput_relevant&#10;few changes in main.ipynb in section additional Data" />
+    <MESSAGE value="datafactory.ipynb updated with my explorations" />
+    <MESSAGE value="created ml_model.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="created ml_model.ipynb" />
   </component>
 </project>
