@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="created ml_model.ipynb">
+    <list default="true" id="925c2c0e-93f1-4bb2-9a1a-2bff6b398fff" name="Changes" comment="workspace.xml datei">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse_results.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/parse_results.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dopp-ex3/src/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../dopp-ex3/src/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +78,14 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="mac_tobi2" />
                       </list>
                     </value>
                   </entry>
                   <entry key="roots">
                     <value>
                       <list>
-                        <option value="$PROJECT_DIR$/../../dopp-ex3" />
+                        <option value="$PROJECT_DIR$" />
                       </list>
                     </value>
                   </entry>
@@ -126,6 +128,7 @@
     <MESSAGE value="df_merged_div.csv now available in ouput_relevant&#10;few changes in main.ipynb in section additional Data" />
     <MESSAGE value="datafactory.ipynb updated with my explorations" />
     <MESSAGE value="created ml_model.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="created ml_model.ipynb" />
+    <MESSAGE value="workspace.xml datei" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml datei" />
   </component>
 </project>
