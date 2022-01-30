@@ -1,7 +1,15 @@
-#Code and Data for CIKM'16 paper: Learning Points and Routes to Recommend Trajectories
+Code and Data for CIKM'16 paper: Learning Points and Routes to Recommend Trajectories
 ---------------------------------------------------------------------------------------
 
+##Update for the reproducibility project 30.01.2022:
+* To reproduce this project please use the package versions listed in `requirements.txt`.
+* It is used the liblinear-ranksvm-2.11 to build the required solvers.
+* `reevaluate_original_results.ipynb` IPython notebook to reproduce the statistical tests and plots used in our reproducibility paper
+* TODO: add link to our DOI
 
+
+
+The following README part is copied from the original work:
 ##IPython notebooks
 * `rank_markov.ipynb` IPython notebook to recommend trajectories using methods described in paper.
 * `parse_results.ipynb` IPython notebook to generate performance tables (Table 3 and Table 4 in paper) using dumped results.
